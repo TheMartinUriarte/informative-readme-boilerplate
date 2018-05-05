@@ -1,4 +1,4 @@
-# Product Title <img src="static/Icon.png" width="60">
+# Product Title <img src="media/readmeIcon.svg" width="60">
 
 > tl;dr description of the app
 
@@ -9,7 +9,7 @@ Product description said under 140 characters but more in depth than tl;dr.
 <br>
 
 <a href="Enter Website Link Here">
-	<img src="media/screenshot.png" width="846">
+	<img src="media/heroImage.png" width="846">
 </a>
 
 <br>
